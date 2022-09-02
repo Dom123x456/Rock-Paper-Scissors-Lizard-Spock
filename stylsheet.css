@@ -106,7 +106,7 @@ body {
  /* User choice */
 
  .user-choice {
-     background: center / contain no-repeat url(../images/bg-pentagon.svg);
+     /* background: center / contain no-repeat url(../images/bg-pentagon.svg); */
      background-size: 340px;
      width: 100%;
      max-width: 700px;
