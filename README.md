@@ -52,17 +52,26 @@ Game Page:
 # **My Game across different devices**
 ***Desktop view***
 
- ![image](https://user-images.githubusercontent.com/108178672/188868467-370a721d-792d-4f43-8e74-61592d260c5d.png)
+ ![image](https://user-images.githubusercontent.com/108178672/188937797-bd6d9709-6d36-4692-a418-d1b7a449b67c.png)
+
 
  ***Mobile view***
 
-![image](https://user-images.githubusercontent.com/108178672/188868659-c7097369-6556-48a3-966b-153a68b580a0.png)
+
+
+![image](https://user-images.githubusercontent.com/108178672/188938091-84c84243-d5ca-4fbe-98f9-043cc318a64d.png)
+
+
 
 
 ***Game view mobile***
 
 
-![image](https://user-images.githubusercontent.com/108178672/188870328-1dd83797-cf9f-4021-a97d-7be40e169e1f.png)
+
+
+![image](https://user-images.githubusercontent.com/108178672/188938091-84c84243-d5ca-4fbe-98f9-043cc318a64d.png)
+
+
 
 
 ***Game view Desktop***
@@ -92,11 +101,26 @@ All different aspects and views of the site are in with accordance with the pass
 
 ***Validation***
 
+
 ![image](https://user-images.githubusercontent.com/108178672/188871330-8ec4c932-05c2-4f02-a51b-c1c37d1b4703.png)
+
+I procceded to fix these errors by closing the div which fixed both errors at once. I also changed the first warning changing the list to all h2 elements.
+
+![image](https://user-images.githubusercontent.com/108178672/188936007-3b576aac-9eac-4815-a566-7df9f6a5edae.png)
+
+I had one warning that I deamed not necesary to change as I decied to a section was needed instead as I needed to add one for the buttons for my game to use so adding a h2 or any other (h element) I deemed unnecessary.
+
+![image](https://user-images.githubusercontent.com/108178672/188935484-8a15aa98-f929-4174-bfd9-f733527e9f86.png)
+
+The only issue that was found was a lack of smei-colons onthe first line of java script which was then swiftly correted.
 
 # **Bugs and Issues Discovered**
 
 ![image](https://user-images.githubusercontent.com/108178672/188871330-8ec4c932-05c2-4f02-a51b-c1c37d1b4703.png)
 # **Material used and References**
 
-the start of my comits where bad as i didnt fully understand the commit message requirments but having recieved feedback have treid to make them more functional and easier to understand.
+
+
+***aditional***
+
+The start of my comits where bad as i didnt fully understand the commit message requirments but having recieved feedback have treid to make them more functional and easier to understand.
