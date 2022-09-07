@@ -99,3 +99,4 @@ All different aspects and views of the site are in with accordance with the pass
 ![image](https://user-images.githubusercontent.com/108178672/188871330-8ec4c932-05c2-4f02-a51b-c1c37d1b4703.png)
 # **Material used and References**
 
+the start of my comits where bad as i didnt fully understand the commit message requirments but having recieved feedback have treid to make them more functional and easier to understand.
