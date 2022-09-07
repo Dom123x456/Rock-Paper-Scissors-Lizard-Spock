@@ -91,8 +91,10 @@ All different aspects and views of the site are in with accordance with the pass
 # **Testing and Validation**
 
 
+![image](https://user-images.githubusercontent.com/108178672/188871330-8ec4c932-05c2-4f02-a51b-c1c37d1b4703.png)
+
 # **Bugs and Issues Discovered**
 
-
+![image](https://user-images.githubusercontent.com/108178672/188871330-8ec4c932-05c2-4f02-a51b-c1c37d1b4703.png)
 # **Material used and References**
 
