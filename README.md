@@ -12,12 +12,12 @@ https://dom123x456.github.io/Rock-Paper-Scissors-Lizard-Spock/
 2. My Game across different devices
 3. Technologies used
 4. Website Features
-5. Testing and Validation
+5. Testing 
 6. Bugs and Issues
 7. Material used and References
 
 # **UX Design**
-Form my Game I decied to use a mixture of vibrant colors to capture the eye of the user but also to not distract them from the actual game itself.
+From my Game I decied to use a mixture of vibrant colors to capture the eye of the user but also to not distract them from the actual game itself.
 
 Page Layout:
 - Start Page:
@@ -88,8 +88,9 @@ All different aspects and views of the site are in with accordance with the pass
 # **Website features**
 
 
-# **Testing and Validation**
+# **Testing**
 
+***Validation***
 
 ![image](https://user-images.githubusercontent.com/108178672/188871330-8ec4c932-05c2-4f02-a51b-c1c37d1b4703.png)
 
