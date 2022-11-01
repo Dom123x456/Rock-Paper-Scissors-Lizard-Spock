@@ -7,3 +7,14 @@ selections{
     justify-content: center;
 }
 
+selection{
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.imgs{
+    height: 400px;
+    width: 400px;
+}
+
