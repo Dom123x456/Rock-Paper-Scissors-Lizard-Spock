@@ -8,10 +8,9 @@ body{
   }
   
 .selection{
-    background: none;
     border: none;
-    outline: none;
     cursor: pointer;
+    background: none;
     transition: 100ms;
   }
 
