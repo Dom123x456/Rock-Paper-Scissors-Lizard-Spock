@@ -1,17 +1,20 @@
 body{
     background-color: darkcyan;
 }
-
-selections{
+  
+.selections{
     display: flex;
     justify-content: center;
-}
-
-selection{
+  }
+  
+.selection{
     background: none;
     border: none;
     outline: none;
-}
+    cursor: pointer;
+    font-size: 2rem;
+    transition: 100ms;
+  }
 
 .imgs{
     height: 150px;
