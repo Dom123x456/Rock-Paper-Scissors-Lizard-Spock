@@ -58,3 +58,7 @@ selectionButtons.forEach(selectionButton => {
   if (winner) div.classList.add('winner')
   finalColumn.after(div)
 }
+
+function isWinner(selection, opponentSelection) {
+  return selection.beats === opponentSelection.name
+}
