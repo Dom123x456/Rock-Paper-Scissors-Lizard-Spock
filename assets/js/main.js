@@ -9,20 +9,25 @@ const SELECTIONS = [
         beats: "scissors"
       },
       {
-        name: 'paper',
-        Image: '✋',
-        beats: 'rock'
+        name: "paper",
+        Image: "✋",
+        beats: "rock"
       },
       {
-        name: 'scissors',
-        Image: '✌',
-        beats: 'paper, lizard'
+        name: "scissors",
+        Image: "✌",
+        beats: "paper, lizard"
       }
       
       {
       name: "lizard",
       Image: "",
       beats: "spock"
+      },
+      {
+        name: "",
+        Image: "",
+        beats: ""
       },
 
 ]
