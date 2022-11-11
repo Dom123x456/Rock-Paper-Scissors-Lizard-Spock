@@ -3,6 +3,27 @@ const finalColumn = document.querySelector('[data-final-column]')
 const computerScoreSpan = document.querySelector('[data-computer-score]')
 const yourScoreSpan = document.querySelector('[data-your-score]')
 const SELECTIONS = [
+    {
+        name: "rock",
+        Image: "rock-icon.jpg",
+        beats: "scissors"
+      },
+      {
+        name: 'paper',
+        Image: '✋',
+        beats: 'rock'
+      },
+      {
+        name: 'scissors',
+        Image: '✌',
+        beats: 'paper, lizard'
+      }
+      
+      {
+      name: "lizard",
+      Image: "",
+      beats: "spock"
+      },
 
 ]
 
@@ -24,4 +45,8 @@ selectionButtons.forEach(selectionButton => {
   
     if (yourWinner) incrementScore(yourScoreSpan)
     if (computerWinner) incrementScore(computerScoreSpan)
+  }
+
+  function incrementScore(scoreSpan) {
+    scoreSpan.innerText = parseInt(scoreSpan.innerText) + 1
   }
