@@ -5,30 +5,29 @@ const yourScoreSpan = document.querySelector('[data-your-score]')
 const SELECTIONS = [
     {
         name: "rock",
-        Image: "rock-icon.jpg",
+        Image: "assets/images/rock-icon.jpg",
         beats: "scissors"
       },
       {
         name: "paper",
-        Image: "✋",
+        Image: "assets/images/paper-icon.png",
         beats: "rock"
       },
       {
         name: "scissors",
-        Image: "✌",
+        Image: "assets/images/scissors-icon.png",
         beats: "paper, lizard"
-      }
-      
-      {
-      name: "lizard",
-      Image: "",
-      beats: "spock"
       },
       {
-        name: "",
-        Image: "",
+        name: "lizard",
+        Image: "assets/images/lizard-icon.png",
         beats: ""
       },
+      {
+        name: "spock",
+        Image: "assets/images/spock-icon.jpg",
+        beats: ""
+      }
 
 ]
 
